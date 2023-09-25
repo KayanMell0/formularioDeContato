@@ -19,6 +19,8 @@ O Formulário de Contato foi um desafio que me submeti a realizar utilizando o H
 
 - [Acesse o projeto finalizado, online](https://kayanmell0.github.io/formularioDeContato)
 
+- [Acesse as condições do desafio!](https://efficient-sloth-d85.notion.site/2-Formul-rio-de-contato-7bb047fc602f48a1859e02882ddd547b)
+
 
 ## :memo: Licença
 
